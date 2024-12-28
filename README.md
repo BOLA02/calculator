@@ -33,7 +33,7 @@ This project is a **Simple Calculator** created using **HTML**, **CSS**, and **J
 
 2. Open the `index.html` file in any modern web browser to run the calculator.
 
-   Alternatively, you can deploy the project to a server or hosting platform like GitHub Pages, Netlify, or Vercel.
+   
 
 ## Usage
 
