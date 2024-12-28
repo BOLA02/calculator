@@ -1,5 +1,3 @@
-
-
 # Simple Calculator
 
 A simple calculator built using HTML, CSS, and JavaScript that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This project demonstrates handling user input, validating mathematical expressions, and performing safe evaluation.
@@ -14,7 +12,7 @@ A simple calculator built using HTML, CSS, and JavaScript that allows users to p
 
 ## Introduction
 
-This project is a **Simple Calculator** created using **HTML**, **CSS**, and **JavaScript**. It supports basic operations like addition, subtraction, multiplication, and division, and it includes features for input validation and error handling.
+This project is a **Simple Calculator** created using **HTML**, **CSS**, and **JavaScript**. It supports basic operations like addition, subtraction, multiplication, and division. 
 
 ## Features
 
@@ -33,7 +31,6 @@ This project is a **Simple Calculator** created using **HTML**, **CSS**, and **J
 
 2. Open the `index.html` file in any modern web browser to run the calculator.
 
-   
 
 ## Usage
 
